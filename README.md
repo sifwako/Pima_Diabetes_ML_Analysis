@@ -1,6 +1,6 @@
 ## CLUSTERING AND CLASSIFICATION ON THE PIMA INDIANS DIABETES DATASET 
 
-### Overview
+### Overview 
 This project uses the Pima Indians Diabetes Dataset to compare two machine learning techniques:
 - **K-Means Clustering** for unsupervised analysis
 - **K-Nearest Neighbors (KNN)** for supervised classification
